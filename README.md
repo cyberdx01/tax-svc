@@ -3,7 +3,7 @@
 ### Dependencies
 Before using this microservice, ensure the following module is running / built beforehand:
 
-* tax-model
+* [tax-model](https://github.com/cyberdx01/tax-model)
 
 
 ### Guides
